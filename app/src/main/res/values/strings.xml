@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+
+    <!-- VERSION -->
+    <string name="version_name">Simple Notes v1.1</string>
+
+    <!-- LOGIN -->
+    <string name="login_button_label">Login</string>
+    <string name="login_screen_title_bar">رزرو غذای شریف</string>
+    <string name="login_title">Let\'s Login</string>
+    <string name="login_subtitle">And notes your idea</string>
+    <string name="login_username_placeholder">Example: saj306</string>
+    <string name="login_password_placeholder">********</string>
+    <string name="login_or_divider_label">Or</string>
+    <string name="login_register_link">Don\'t have any account? Register here</string>
+
+    <!-- REGISTER -->
+    <string name="register_title">Register</string>
+    <string name="register_subtitle">And start taking notes</string>
+    <string name="register_first_name">First Name</string>
+    <string name="register_last_name">Last Name</string>
+    <string name="register_email">Email Address</string>
+    <string name="register_retype_password">Retype Password</string>
+    <string name="register_first_name_placeholder">Example: Ali</string>
+    <string name="register_last_name_placeholder">Example: Jafari</string>
+    <string name="register_username_placeholder">Example: @JafariAli</string>
+    <string name="register_email_placeholder">Example: jafari.ali@gmail.com</string>
+    <string name="register_password_placeholder">********</string>
+    <string name="register_retype_password_placeholder">********</string>
+    <string name="register_button_text">Register</string>
+    <string name="register_login_link">Already have an account? Login here</string>
+    <string name="register_back_to_login">Back to Login</string>
+
+    <!-- GENERAL -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <!-- DATE & TIME -->
+    <string name="persian_day_of_week_saturday">شنبه</string>
+    <string name="persian_day_of_week_sunday">یکشنبه</string>
+    <string name="persian_day_of_week_monday">دوشنبه</string>
+    <string name="persian_day_of_week_tuesday">سه‌شنبه</string>
+    <string name="persian_day_of_week_wednesday">چهارشنبه</string>
+    <string name="persian_day_of_week_thursday">پنجشنبه</string>
+    <string name="persian_day_of_week_friday">جمعه</string>
+
+    <!-- SPLASH -->
+    <string name="splash_screen_caption">رزرو غذای سامانه سماد</string>
+
+    <!-- ONBOARDING -->
+    <string name="onboarding_screen_title">Jot Down anything you want to achieve, today or in the future</string>
+    <string name="onboarding_get_started">Let\'s Get Started</string>
+    <string name="onboarding_skip">Skip</string>
+
+    <!-- HOME -->
+    <string name="home_title">Start Your Journey</string>
+    <string name="home_subtitle">Every big step start with small step.\nNotes your first idea and start\nyour journey!</string>
+    <string name="home_bottom_nav_home">Home</string>
+    <string name="home_bottom_nav_settings">Settings</string>
+    <string name="home_add_note_button">Add Note</string>
+
+    <!-- NOTE -->
+    <string name="note_title">Note</string>
+    <string name="note_title_placeholder">Title</string>
+    <string name="note_content_placeholder">Feel Free to Write Here...</string>
+    <string name="note_delete_button">Delete</string>
+    <string name="note_back_button">Back</string>
+    <string name="note_last_edited">Last edited on</string>
+    <string name="note_saving_text">Saving...</string>
+    <string name="note_delete_confirmation_message">Want to Delete this Note?</string>
+    <string name="note_delete_confirmation_confirm">Delete Note</string>
+
+
+    <!-- RESERVATION INFO -->
+    <string name="reservation_info_screen_title">اطلاعات رزرو</string>
+    <string name="reservation_info_screen_failed">زارت!</string>
+    <string name="reservation_info_screen_no_data">غذای رزروی ندارید</string>
+
+    <!-- NURTURE PROFILE -->
+    <string name="nurture_profile_row_item_name">نام</string>
+    <string name="nurture_profile_row_item_usrname">نام کاربری</string>
+    <string name="nurture_profile_row_item_credit">اعتبار</string>
+    <string name="nurture_profile_row_item_transactions">تراکنش‌ها</string>
+    <string name="nurture_profile_titlebar_name">پروفایل</string>
+
+    <!-- Order -->
+    <string name="order_screen_title_bar">رزرو غذا</string>
+    <string name="order_select_self_dialog_title">سلف مورد نظر را انتخاب کنید:</string>
+    <string name="order_order_food_detail_disabled">مهلت رزرو این غذا تمام شده</string>
+    <string name="increase_credit_button_label">افزایش اعتبار</string>
+    <string name="order_order_food_detail_selected">رزرو شده</string>
+    <string name="order_order_food_detail_not_selected">قابل رزرو</string>
+    <string name="order_order_food_detail_cancel">حذف رزرو</string>
+    <string name="order_order_food_detail_reserve">رزرو غذا</string>
+
+    <!-- Forget Code -->
+    <string name="forget_code_api_error">"در دریافت کد فراموشی غذای مورد نظر خطایی پیش اومده"</string>
+    <string name="get_forget_code_button_label">دریافت کد فراموشی</string>
+
+
+    <!-- Notifications -->
+    <!-- Daily Sell -->
+    <string name="daily_sell_no_program_found">برنامه روزفروشی تعریف نشده</string>
+    <string name="daily_sell_screen_title">روز فروش</string>
+
+    <!-- Settings -->
+    <string name="settings_screen_title">Settings</string>
+    <string name="settings_change_password_title">Change Password</string>
+    <string name="settings_logout_button_label">Log Out</string>
+    <string name="settings_logout_dialog_title">Log Out</string>
+    <string name="settings_logout_dialog_message">Are you sure you want to log out from the application?</string>
+    <string name="settings_logout_dialog_cancel">Cancel</string>
+    <string name="settings_logout_dialog_confirm">Yes</string>
+
+    <!-- Change Password -->
+    <string name="change_password_screen_title">Change Password</string>
+    <string name="change_password_current_password_description">Please input your current password first</string>
+    <string name="change_password_current_password">Current Password</string>
+    <string name="change_password_new_password_description">Now, create your new password</string>
+    <string name="change_password_new_password">New Password</string>
+    <string name="change_password_new_password_validation_description">Password should contain a-z, A-Z, 0-9</string>
+    <string name="change_password_retype_new_password">Retype New Password</string>
+    <string name="change_password_current_password_placeholder">********</string>
+    <string name="change_password_new_password_placeholder">********</string>
+    <string name="change_password_retype_new_password_placeholder">********</string>
+    <string name="change_password_submit_button">Submit New Password</string>
+    <string name="change_password_back_button">Back</string>
+
+
+    <!-- About Us -->
+    <string name="about_us_text">به فودی خوش آمدید، اپلیکیشنی که رزرو وعده‌های غذای دانشگاه رو به اندازه سفارش یک قهوه آسون کرده.\nمن امیرحسین هستم، یکی از دانشجویان دانشگاه شریف، و این اپ رو ساختم تا همه‌مون از «کسی کد داره؟» و «ای‌وای یادم رفت رزرو کنم» در امان باشیم. اگر یک زمانی از فودی خوشتون اومد احتمالا تا یکی دو سال دیگه فرصت دارید چایی مهمونم کنید؛ خوشحال می‌شم.\nامیدوارم غذاتون همیشه رزرو باشه و صف‌ها براتون کوتاه.</string>
+    <string name="about_us_question_1">کد این نرم افزار اوپن سورسه؟</string>
+    <string name="about_us_question_2">فودی چطور کار می‌کنه؟</string>
+    <string name="about_us_question_3">چطوری اعتماد کنم؟ (توهم توطئه دارم)</string>
+    <string name="about_us_question_5">چطور می‌تونم باگ‌ها رو گزارش بدم یا پیشنهاد بدم؟</string>
+    <string name="about_us_answer_1">بله، با دکمه زیر به کد‌ها دسترسی دارید.</string>
+    <string name="about_us_answer_2">بین این نرم‌افزار و سرور‌های سامانه samad.app هیچ واسطی نیست. همه محاسبات و داده‌ها، سمت سرور‌های دانشگاه یا داخل گوشیتون هست. پس درواقع کسی رمز و داده‌های شما رو این وسط نمی‌بینه. بدیهی هستش که اگر داده‌های نرم‌افزار رو پاک کنید، بخش‌هایی که قبلا پر کرده بودین و برای خود برنامه بود، پاک خواهند شد.</string>
+    <string name="about_us_answer_3">کدها رو بخونید.</string>
+    <string name="about_us_answer_5">می‌تونید از طریق دکمه پایین باگ‌ها یا پیشنهاداتتون رو ایمیل کنید،  یا اگه تو دانشگاه من رو دیدید، بهم بگید.</string>
+    <string name="about_us_title">درباره ما (من)</string>
+    <string name="about_us_send_feedback">ارسال انتقاد/پیشنهاد</string>
+    <string name="about_us_button">درباره</string>
+
+    <!-- Automatic Reserve -->
+    <string name="priority_selection_screen_title"> اولویت‌ها</string>
+    <string name="auto_reserve_screen_title">رزرو اتوماتیک</string>
+    <string name="auto_reserve_button_label">رزرو</string>
+    <string name="auto_reserve_result_info_title">نتیجه رزرو‌ها</string>
+    <string name="clear_priorities_button_text">حذف اولویت‌ها</string>
+
+    <!-- Settings -->
+    <string name="settings_button_title">تنظیمات</string>
+    <string name="settings_button_label">تنظیمات</string>
+    <string name="code_github_address">amirHravan/Foodie</string>
+</resources>
+

@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Build SimpleNote",
+      "type": "shell",
+      "command": "gradlew.bat",
+      "args": ["assembleDebug"],
+      "group": "build",
+      "problemMatcher": ["$android-lint"],
+      "isBackground": false
+    }
+  ]
+}
